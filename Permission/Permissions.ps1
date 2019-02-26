@@ -3,8 +3,8 @@ Add-Type -Path "C:\Program Files\Common Files\Microsoft Shared\Web Server Extens
 Add-Type -Path "C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\16\ISAPI\Microsoft.SharePoint.Client.Runtime.dll"
   
 #Set parameter values
-$SiteURL = "https://o2webdevcom.sharepoint.com"
-$UserAccount = "oscar@o2webdev.com"
+$SiteURL = ""
+$UserAccount = ""
 $ReportFile = "C:\Windows\Temp\PermissionRpt.csv"
  
 #To call a non-generic method Load

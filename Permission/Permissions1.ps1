@@ -197,7 +197,7 @@ Function Generate-SPOSitePermissionRpt($SiteURL, $ReportFile) {
 }
  
 #Set parameter values
-$SiteURL = "https://o2webdevcom.sharepoint.com"
+$SiteURL = ""
 $ReportFile = "C:\Windows\Temp\SitePermissionRpt.csv"
  
 #Call the function
