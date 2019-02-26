@@ -223,5 +223,3 @@ Try {
 Catch {
     write-host -f Red "Error Generating User Permission Report!" $_.Exception.Message
 }
-
-#Read more: http://www.sharepointdiary.com/2018/09/sharepoint-online-get-user-permission-report-using-powershell.html#ixzz5gZBGn4a6

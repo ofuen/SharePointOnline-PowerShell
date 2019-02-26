@@ -202,5 +202,3 @@ $ReportFile = "C:\Windows\Temp\SitePermissionRpt.csv"
  
 #Call the function
 Generate-SPOSitePermissionRpt -SiteURL $SiteURL -ReportFile $ReportFile
-
-#Read more: http://www.sharepointdiary.com/2018/09/sharepoint-online-site-collection-permission-report-using-powershell.html#ixzz5gbnpoUQq
