@@ -167,7 +167,7 @@ Function Set-SPOUIExperience {
 }
  
 #Set Variable
-$SiteURL = "https://o2webdevcom.sharepoint.com/sites/Showcase"
+$SiteURL = "#"
  
 #Call the function to set UI experience
-Set-SPOUIExperience -SiteURL $SiteURL -Experience Classic -Scope Site
+Set-SPOUIExperience -SiteURL $SiteURL -Experience Modern -Scope Site
